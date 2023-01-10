@@ -1,0 +1,9 @@
+resources:
+- deployment.yaml
+- namespace.yaml
+- service.yaml
+
+images:
+- name: amazonaws.com/web-app
+  newName: ${AWS_ECR_REPOSITORY}
+  newTag: ${IMAGE_TAG}
