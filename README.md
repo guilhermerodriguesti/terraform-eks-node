@@ -5,3 +5,15 @@ Creation of a **website**, hosted on a **Kubernetes cluster**. Use **Kubectl**, 
 - Updated version using **terraform** and without **eksctl**
 
 ![architecture.svg](architecture.svg)
+
+## Things that are planned (roadmap)
+
+The following things are on the roadmap until the `v1.0` release
+
+* [x] Improve pipeline
+
+* [ ] Use multiple os
+
+* [x] Improve error handling
+
+* [x] Support any pipelines i.e. Gitlab,Github,bitbucket
