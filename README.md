@@ -14,6 +14,6 @@ The following things are on the roadmap until the `v1.0` release
 
 * [ ] Use multiple os
 
-* [x] Improve error handling
+* [ ] Improve error handling
 
-* [x] Support any pipelines i.e. Gitlab,Github,bitbucket
+* [ ] Support any pipelines i.e. Gitlab,Github,bitbucket
